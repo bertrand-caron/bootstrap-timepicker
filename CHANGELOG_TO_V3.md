@@ -3,9 +3,8 @@
 ## To do : 
 
 * Rewrite demos
-
-** `class='input-append'` => `class='input-group'`
-** `class='add-on'` => `class='input-group-addon'`
+    * `class='input-append'` => `class='input-group'`
+    * `class='add-on'` => `class='input-group-addon'`
 
 ```
 <!DOCTYPE html>
